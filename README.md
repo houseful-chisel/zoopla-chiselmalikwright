@@ -22,9 +22,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" height="40px"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" height="40px"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zoopla-chiselmalikwright)](https://git.io/streak-stats)
