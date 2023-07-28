@@ -1,5 +1,5 @@
-<div style="float:right;">
-  <img src="https://media.giphy.com/media/cegAA2LlR200FMQbgG/giphy.gif" width="300" height="300"/>
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-4.0.3" width="640" height="423"/>
 </div>
 
 ---
@@ -22,3 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" height="40px"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" height="40px"/>&nbsp;
 </div>
+
+
+---
+<em>
+Photo by <a href="https://unsplash.com/@tma?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tianyi Ma</a> on <a href="https://unsplash.com/photos/macbook-pro-on-white-surface-WiONHd_zYI4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</em>
